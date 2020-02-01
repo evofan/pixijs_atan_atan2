@@ -1,6 +1,8 @@
 # Testing atan() and atan2() using PixiJS(ver4 & ver5).
 
-**DEMO**  
+![https://evofan.github.io/pixijs_atan_atan2/pic_atan2_screenshot.jpg](https://evofan.github.io/pixijs_atan_atan2/pic_atan2_screenshot.jpg "image")  
+
+**DEMO(PC ONLY)**  
 [https://evofan.github.io/pixijs_atan_atan2/](https://evofan.github.io/pixijs_atan_atan2/)  
 
 reference  
